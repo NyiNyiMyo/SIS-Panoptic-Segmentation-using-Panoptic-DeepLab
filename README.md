@@ -1,2 +1,2 @@
-# Panoptic-Segmentation-using-Panoptic-DeepLab
+# SIS-Panoptic-Segmentation-using-Panoptic-DeepLab
 Panoptic DeepLab Panoptic Segmentation in PyTorch Fine-tuning
